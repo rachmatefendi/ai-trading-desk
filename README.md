@@ -105,4 +105,6 @@ This profile is derived from the Trading Desk v1.1 operating instruction and APO
 
 **Author:** Rachmat Efendi
 
-**License:** No open-source license is asserted by this repository unless a license file is added separately by the author.
+**License:** Copyright © 2026 Rachmat Efendi. Licensed under the [MIT License](LICENSE).
+
+The license grants copyright permissions for this profile only. It is not investment advice, does not make this profile a licensed investment adviser, and provides no warranty of trading outcomes.
